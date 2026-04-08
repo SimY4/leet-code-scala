@@ -1,3 +1,3 @@
 # leet-code
 
-Solving leet code challenges using Dotty
+Solving leet code challenges using Scala
